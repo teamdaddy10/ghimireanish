@@ -1,0 +1,46 @@
+	<div class="container">
+		<div class="contact-box">
+			<div class="left"></div>
+			<div class="right">
+				<h2>Contact Us</h2>
+				<input type="text" class="field" placeholder="Your Name">
+				<input type="text" class="field" placeholder="Your Email">
+				<input type="text" class="field" placeholder="Phone">
+				<textarea placeholder="Message" class="field"></textarea>
+				<button class="btn">Send</button>
+				<div class="detel">
+    
+					<h3> Mobile Number</h3><br>
+					<p><a href="tel:+977 9744329259">+977-9744329259</a></p><br>
+					<h3>Email</h3>
+					<p><a href="email">silentgaminganish@gmail.com</a></p>
+					<p><a href="email">ghimireanish319@gmail.com</a></p>
+			
+					</div>
+	<div class="social">
+		<h3>Social Network</h3>
+		<a href="https://www.facebook.com/itsmeAnish.Ghimire?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+		   <a href="https://instagram.com/silentgamingaanish?igshid=NTA5ZTk1NTc="><i class="fab fa-instagram"></i></a>
+		   <a href="https://discord.gg/fbsjfeRMPT"><i class="fab fa-discord"></i></a>
+		   <a href="https://twitter.com/sga_anish?t=OBlN6-t74ScMdZZdzNjGzg&s=09"><i class="fab fa-twitter"></i></a>
+		   <a href="https://www.tiktok.com/@sga_anish?is_from_webapp=1&sender_device=pc"><i class="fab fa-tiktok"></i></a>
+		   <a href="https://www.youtube.com/@sgaanish/featured"><i class="fa-youtube"></i></a>
+	</div>
+</div>
+		</div>
+		</div>
+
+
+
+
+	<div class="hero">
+		<nav>
+            <img src="ANISH 1.jpg" class="logo">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="Images.html">IMAGES</a></li>
+                <li><a href="Contact.html">CONTACT</a></li>
+                <li><a href="About Me.html">ABOUT ME</a></li>
+            </ul>
+		</nav>
+	</div><br>
